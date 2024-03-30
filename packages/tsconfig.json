@@ -1,0 +1,7 @@
+{
+    "files": [],
+    "references": [
+        { "path": "rock-exam-be" },
+        { "path": "rock-exam-fe" }
+    ]
+}
